@@ -1,0 +1,4 @@
+I used Claude to:
+- Get to know about k3s quickly
+- Learn about https://github.com/rancher/local-path-provisioner
+- Understand devops-assessment/Part-1/Task-1.3/Other-Details/README.md to get an architectural view
